@@ -72,6 +72,7 @@ Requirements include:
 
 ```bash
 export GROQ_API_KEY=your_groq_api_key  # Or set it in your .env
+export HF_TOKEN=your_hf_token
 ```
 
 ### 4. Run the app
