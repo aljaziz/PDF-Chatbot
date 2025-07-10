@@ -1,0 +1,8 @@
+streamlit
+langgraph
+langchain
+langchain_groq
+langchain_community
+faiss-cpu
+pymupdf
+sentence-transformers
