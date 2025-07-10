@@ -48,8 +48,8 @@ pdf_chatbot/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/aljaziz/pdf-chatbot.git
-cd pdf-chatbot
+git clone https://github.com/aljaziz/PDF-Chatbot.git
+cd PDF-Chatbot
 ```
 
 ### 2. Install dependencies
